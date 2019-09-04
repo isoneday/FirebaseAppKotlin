@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="title_activity_utama">UtamaActivity</string>
+</resources>
